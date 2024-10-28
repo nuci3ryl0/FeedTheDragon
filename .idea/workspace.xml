@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b580e7e9-d4c8-4a0a-8a2b-3539a1a61ef4" name="Changes" comment="added game assets and quit">
+    <list default="true" id="b580e7e9-d4c8-4a0a-8a2b-3539a1a61ef4" name="Changes" comment="completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,9 @@
       <workItem from="1726664182465" duration="4129000" />
       <workItem from="1726837371963" duration="4448000" />
       <workItem from="1727183023457" duration="3921000" />
-      <workItem from="1727355187110" duration="2476000" />
+      <workItem from="1727355187110" duration="3912000" />
+      <workItem from="1729515973284" duration="1986000" />
+      <workItem from="1729689357858" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -148,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726150185925</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="completed">
+      <option name="closed" value="true" />
+      <created>1727358320237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727358320238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,9 +169,10 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added game assets" />
     <MESSAGE value="added game assets and quit" />
-    <option name="LAST_COMMIT_MESSAGE" value="added game assets and quit" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FeedTheDragon$main.coverage" NAME="main Coverage Results" MODIFIED="1727358023885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FeedTheDragon$main.coverage" NAME="main Coverage Results" MODIFIED="1727359729836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
